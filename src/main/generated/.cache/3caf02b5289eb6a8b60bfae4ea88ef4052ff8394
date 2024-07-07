@@ -1,4 +1,4 @@
-// 1.21	2024-07-07T12:30:23.9676258	MC Course Mod/Block Loot Tables
+// 1.21	2024-07-07T18:45:57.7264344	MC Course Mod/Block Loot Tables
 f8ab0d072bc63cf1be0cf393e30cc0e75a90f725 data\mccourse\loot_table\blocks\fluorite_fence_gate.json
 a31857ab8b8ff379b6726cca5a45cc7b943f7c6e data\mccourse\loot_table\blocks\fluorite_block.json
 40ceb4a052e93ed6215b679af39803140c4e941b data\mccourse\loot_table\blocks\magic_block.json
@@ -7,6 +7,7 @@ a31857ab8b8ff379b6726cca5a45cc7b943f7c6e data\mccourse\loot_table\blocks\fluorit
 91b97b845dd2589b8f14863617e2d4415bd53b34 data\mccourse\loot_table\blocks\fluorite_wall.json
 127aa2b6adcc5f7032b5ba86e18e42f75e77def7 data\mccourse\loot_table\blocks\fluorite_pressure_plate.json
 8069c5f53def1734ad924dcef5fefbcfaaa2c0e4 data\mccourse\loot_table\blocks\fluorite_button.json
+90be45827cf20de79bb983a809ad66ea2ace877f data\mccourse\loot_table\blocks\fluorite_lamp.json
 2827bb4b5d08ab84441d3f847fa5281c30599e5b data\mccourse\loot_table\blocks\fluorite_trapdoor.json
 8afceac5d1772702ea24abafd1b38ea30009a036 data\mccourse\loot_table\blocks\fluorite_stairs.json
 f5b6b3c27e2daed548bbcf3cfb87197c1acee0f1 data\mccourse\loot_table\blocks\fluorite_end_ore.json
