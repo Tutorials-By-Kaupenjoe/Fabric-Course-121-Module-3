@@ -1,4 +1,4 @@
-// 1.21	2024-07-07T18:45:57.7224359	MC Course Mod/Model Definitions
+// 1.21	2024-07-07T20:17:02.6142389	MC Course Mod/Model Definitions
 45404775a7f3307dcc1b9859c05aed6550496db6 assets\mccourse\models\item\fluorite_deepslate_ore.json
 77f2e3e1ebf7ca2a617cdcac9faab72f16d804c8 assets\mccourse\models\item\fluorite_stairs.json
 0c557fa888aa588865ad6422a2e2cd196464ecfb assets\mccourse\models\block\fluorite_ore.json
@@ -44,6 +44,7 @@ c359f2e8d0d2f3bccc4cf3e8c8a2be6d04bd7e00 assets\mccourse\models\block\fluorite_t
 f2aeca2040ea829b8b6878ebe3a168fcb74381d2 assets\mccourse\models\item\chainsaw.json
 fac5d28dfafaf4ed309fe8f9bd7013d25ee2114a assets\mccourse\blockstates\fluorite_slab.json
 acbe5f7c449be4df4b444142fe152ad69c6dc5cf assets\mccourse\models\item\fluorite_lamp.json
+23f99234f647aa805541635819a0a2a8b1552d81 assets\mccourse\models\item\metal_detector.json
 2b329c5ab799a97ab9b72d5998c67c9443430dd4 assets\mccourse\models\block\fluorite_block.json
 0096809069de7b541460be66a2734262265e6ca5 assets\mccourse\models\block\fluorite_fence_gate.json
 f9b91dcd506a1166fcbbe75419bafcda264de3d0 assets\mccourse\models\item\fluorite_end_ore.json
@@ -59,6 +60,7 @@ f1576a0d92bd6dddcefa45c5b355fa6c609f1c51 assets\mccourse\models\block\fluorite_b
 0178f4806119a9622c5eb492811556ce4669a9eb assets\mccourse\models\block\fluorite_trapdoor_top.json
 fb2864f902591619465af0b7095f8f2161f9a3dc assets\mccourse\blockstates\fluorite_end_ore.json
 9461a9ff373c63099692a1df1159d4c8839691e4 assets\mccourse\models\item\fluorite_trapdoor.json
+eac3449dd2f9df65a33456b5098c130c1e050c03 assets\mccourse\models\item\data_tablet.json
 55ab8e449ff54e09f2541821e53089546fa9eef9 assets\mccourse\models\block\fluorite_fence_gate_wall.json
 921cae638e8e02cbff18ba1da1d9aec836513184 assets\mccourse\models\block\fluorite_wall_inventory.json
 267ad4c229822b23674b8d23f4ac984b5586f42e assets\mccourse\models\block\fluorite_stairs.json

@@ -4,6 +4,8 @@ import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.kaupenjoe.mccourse.MCCourseMod;
 import net.kaupenjoe.mccourse.item.custom.ChainsawItem;
+import net.kaupenjoe.mccourse.item.custom.DataTabletItem;
+import net.kaupenjoe.mccourse.item.custom.MetalDetectorItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
 import net.minecraft.item.ItemStack;
@@ -30,6 +32,11 @@ public class ModItems {
     });
 
     public static final Item STARLIGHT_ASHES = registerItem("starlight_ashes", new Item(new Item.Settings()));
+
+    public static final Item METAL_DETECTOR = registerItem("metal_detector",
+            new MetalDetectorItem(new Item.Settings().maxDamage(200)));
+    public static final Item DATA_TABLET = registerItem("data_tablet",
+            new DataTabletItem(new Item.Settings().maxCount(1)));
 
 
     private static Item registerItem(String name, Item item) {

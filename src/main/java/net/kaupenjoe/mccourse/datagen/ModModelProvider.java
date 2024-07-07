@@ -51,5 +51,8 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.CHAINSAW, Models.GENERATED);
         itemModelGenerator.register(ModItems.STRAWBERRY, Models.GENERATED);
         itemModelGenerator.register(ModItems.STARLIGHT_ASHES, Models.GENERATED);
+
+        itemModelGenerator.register(ModItems.METAL_DETECTOR, Models.GENERATED);
+        itemModelGenerator.register(ModItems.DATA_TABLET, Models.GENERATED);
     }
 }

@@ -5,6 +5,8 @@
   "item.mccourse.strawberry": "Strawberry",
   "item.mccourse.starlight_ashes": "Starlight Ashes",
 
+  "item.mccourse.metal_detector": "Metal Detector",
+  "item.mccourse.data_tablet": "Data Tablet",
 
   "block.mccourse.fluorite_block": "Fluorite Block",
 
@@ -31,6 +33,8 @@
 
   "itemgroup.fluorite": "Fluorite Items",
   "itemgroup.fluorite_blocks": "Fluorite Blocks",
+
+  "item.mccourse.metal_detector.no_valuables": "No Valuables Found!",
 
   "tooltip.mccourse.chainsaw.tooltip.shift": "Press §eShift§r for more Information!",
   "tooltip.mccourse.chainsaw.tooltip.1": "This Chainsaw will cut down trees fast!",
